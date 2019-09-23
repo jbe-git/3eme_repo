@@ -1,2 +1,7 @@
 ceci est une ligne dans ce fichier
+et encore une nouvelle ligne
+et une 3eme...
+et bla 
+et bla bla ...
+
 
